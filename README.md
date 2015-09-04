@@ -3,6 +3,8 @@ unite-rails-fat
 
 unite-rails additional sources
 
+### 7 Patterns to Refactor Fat ActiveRecord models
+
 * unite /app/values
   + :Unite rails/value
 * unite /app/services
@@ -17,6 +19,13 @@ unite-rails additional sources
   + :Unite rails/policy
 * unite /app/decorators
   + :Unite rails/decorator
+
+### Other
+
+* unite /app/jobs
+  + :Unite rails/job
+* unite /app/validators
+  + :Unite rails/validator
 
 Requirements
 ------------
