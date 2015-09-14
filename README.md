@@ -26,6 +26,8 @@ unite-rails additional sources
   + :Unite rails/job
 * unite /app/validators
   + :Unite rails/validator
+* unite /app/api
+  + :Unite rails/api
 
 Requirements
 ------------
