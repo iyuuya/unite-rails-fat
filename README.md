@@ -31,6 +31,8 @@ unite-rails additional sources
 
 * unite /app/validators
   + :Unite rails/validator
+* unite /app/api
+  + :Unite rails/api
 
 Requirements
 ------------
