@@ -20,10 +20,15 @@ unite-rails additional sources
 * unite /app/decorators
   + :Unite rails/decorator
 
-### Other
+### Rails 5
 
 * unite /app/jobs
   + :Unite rails/job
+* unite /app/channels
+  + :Unite rails/channel
+
+### Other
+
 * unite /app/validators
   + :Unite rails/validator
 
